@@ -13,6 +13,10 @@ Please cite this repo as Pronk, T. (2023). *somef-demo-repo: This repo aims to p
 # Executable notebook
 Here you find a non-functioning executable notebook in Jupyter on top of Binder: https://mybinder.org/dummy-notebook
 
+# Identifier
+Copied from the [deeprank2 repo](https://github.com/DeepRank/deeprank2)
+[![DOI](https://zenodo.org/badge/450496579.svg)](https://zenodo.org/badge/latestdoi/450496579)
+
 # Name
 Name identifying a software component
 # Full name
