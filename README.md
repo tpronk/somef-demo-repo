@@ -1,5 +1,11 @@
 # somef-demo-repo
-A repo with a README that is set up to provide values for each metadata field that SOMEF can extract 
+This repo aims to provide values for each metadata field that SOMEF (v0.9.4) an extract.
+
+# Acknowledgements
+I would like to thank my fellow maSMP-Hackathonners for the great vibes and Leyla Jael Castro for organizing it.
+
+# Application Domain
+This repo hopes to contribute to a vision of an extension of the existing World Wide Web, which provides software programs with machine-interpretable metadata of the published information and data.
 
 # Name
 Name identifying a software component
