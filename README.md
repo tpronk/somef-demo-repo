@@ -10,6 +10,9 @@ This repo hopes to contribute to a vision of an extension of the existing World 
 # Citation
 Please cite this repo as Pronk, T. (2023). *somef-demo-repo: This repo aims to provide values for each metadata field that SOMEF (v0.9.4) can extract* (Version 0.0.1) [Computer software]. https://github.com/tpronk/somef-demo-repo
 
+# Executable notebook
+Here you find a non-functioning executable notebook in Jupyter on top of Binder: https://mybinder.org/dummy-notebook
+
 # Name
 Name identifying a software component
 # Full name
