@@ -1,11 +1,14 @@
 # somef-demo-repo
-This repo aims to provide values for each metadata field that SOMEF (v0.9.4) an extract.
+This repo aims to provide values for each metadata field that SOMEF (v0.9.4) can extract.
 
 # Acknowledgements
 I would like to thank my fellow maSMP-Hackathonners for the great vibes and Leyla Jael Castro for organizing it.
 
 # Application Domain
 This repo hopes to contribute to a vision of an extension of the existing World Wide Web, which provides software programs with machine-interpretable metadata of the published information and data.
+
+# Citation
+Please cite this repo as Pronk, T. (2023). *somef-demo-repo: This repo aims to provide values for each metadata field that SOMEF (v0.9.4) can extract* (Version 0.0.1) [Computer software]. https://github.com/tpronk/somef-demo-repo
 
 # Name
 Name identifying a software component
@@ -15,8 +18,6 @@ Name + owner (owner/name)
 If the repository is a short name, we will attempt to extract the longer version of the repository name
 # Description
 A description of what the software does.
-# Citation
-Preferred citation (usually in .bib form) as the authors have stated in their readme file.
 # Installation instructions
 A set of instructions that indicate how to install a target repository
 # Invocation
