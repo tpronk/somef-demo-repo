@@ -1,3 +1,5 @@
+Name: Example workflow
+Class: Workflow 
 cwlVersion: v1.2
 
 # What type of CWL process we have in this document.
