@@ -4,9 +4,6 @@ This repo aims to provide values for each metadata field that SOMEF (v0.9.4) can
 # Acknowledgements
 I would like to thank my fellow maSMP-Hackathonners for the great vibes and Leyla Jael Castro for organizing it.
 
-# Application Domain
-This repo hopes to contribute to a vision of an extension of the existing World Wide Web, which provides software programs with machine-interpretable metadata of the published information and data.
-
 # Citation
 Please cite this repo as Pronk, T. (2023). *somef-demo-repo: This repo aims to provide values for each metadata field that SOMEF (v0.9.4) can extract* (Version 0.0.1) [Computer software]. https://github.com/tpronk/somef-demo-repo
 
@@ -19,8 +16,14 @@ Here could be a list of contributors to this software component
 # Documentation
 Where to find additional documentation about a software component.
 
+# Download 
+Download instructions included in the repository.
+
 # Executable notebook
 Here you find a non-functioning executable notebook in Jupyter on top of Binder: https://mybinder.org/dummy-notebook
+
+# FAQ
+Frequently asked questions about a software component
 
 # Identifier
 Copied from the [deeprank2 repo](https://github.com/DeepRank/deeprank2)
@@ -30,12 +33,6 @@ Copied from the [deeprank2 repo](https://github.com/DeepRank/deeprank2)
 
 
 
-# Name
-Name identifying a software component
-# Full name
-Name + owner (owner/name)
-# Full title
-If the repository is a short name, we will attempt to extract the longer version of the repository name
 
 # Installation instructions
 A set of instructions that indicate how to install a target repository
@@ -45,15 +42,11 @@ Execution command(s) needed to run a scientific software component
 Assumptions and considerations recorded by the authors when executing a software component, or examples on how to use it.
 # Requirements
 Pre-requisites and dependencies needed to execute a software component.
-# FAQ
-Frequently asked questions about a software component
 # Support
 Guidelines and links of where to obtain support for a software component
 # License
 License and usage terms of a software component
 
-# Download URL
-URL where to download the target software (typically the installer, package or a tarball to a stable version)
 # DOI
 Digital Object Identifier associated with the software (if any)
 # DockerFile
