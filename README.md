@@ -31,8 +31,11 @@ Copied from the [deeprank2 repo](https://github.com/DeepRank/deeprank2)
 
 # Image
 Images used to illustrate the software component.
+![logo1.png](logo1.png)
 
-![logo.png](logo.png)
+# Logo
+Main logo used to represent the target software component.
+![logo1.png](logo_directory/logo2.png)
 
 
 
@@ -88,7 +91,6 @@ Link to the code of conduct of the project
 Snippets of code contained in the repository.
 # Support channels
 Help channels one can use to get support about the target software component.
-# Logo
-Main logo used to represent the target software component.
+
 # Ontologies
 URL and path to the ontology files present in the repository.
