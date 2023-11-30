@@ -57,60 +57,17 @@ For instructions on using OBA to create your API server, go to the [documentatio
 # Repository status
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
+# Requirements
+Pre-requisites and dependencies needed to execute a software component.
+
 # Run
 There is no code in this repo that can be run.
+
+# Support
+Guidelines and links of where to obtain support for a software component
 
 # Support channels
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenGeoscience/geonotebook)
 
-
 # Usage examples
 Assumptions and considerations recorded by the authors when executing a software component, or examples on how to use it.
-# Requirements
-Pre-requisites and dependencies needed to execute a software component.
-# Support
-Guidelines and links of where to obtain support for a software component
-# License
-License and usage terms of a software component
-
-# DOI
-Digital Object Identifier associated with the software (if any)
-# DockerFile
-Build file to create a Docker image for the target software
-# Notebooks
-Jupyter notebooks included in a repository
-# Executable notebooks
-Jupyter notebooks ready for execution (e.g., through myBinder)
-# Owner
-Name of the user or organization in charge of the repository
-# Keywords
-set of terms used to commonly identify a software component
-# Source code
-Link to the source code (typically the repository where the readme can be found)
-# Releases
-Pointer to the available versions of a software component
-# Changelog
-Description of the changes between versions
-# Issue tracker
-Link where to open issues for the target repository
-# Programming languages
-Languages used in the repository
-# Repository Status
-Repository status as it is described in repostatus.org
-# Arxiv Links
-Links to Arxiv articles
-# Stargazers count
-Total number of stargazers of the project
-# Forks count
-Number of forks of the project
-# Forks url
-Links to forks made of the project
-# Code of Conduct
-Link to the code of conduct of the project
-# Scripts
-Snippets of code contained in the repository.
-# Support channels
-Help channels one can use to get support about the target software component.
-
-# Ontologies
-URL and path to the ontology files present in the repository.
