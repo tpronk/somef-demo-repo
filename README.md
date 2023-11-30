@@ -46,10 +46,9 @@ Main logo used to represent the target software component.
 ![logo2.png](logo_directory/logo2.png)
 
 # Package Distribution
-A non-existent package can be found at [![PyPI](https://example.com)]
-
-
-
+* A non-existent package can be found at [![PyPI](https://example.com)]
+* Or maybe like this? [![PyPI])](https://example.com)
+* How about this? [Latest PyPI version](https://pypi.org/project/pip/)
 
 # Usage examples
 Assumptions and considerations recorded by the authors when executing a software component, or examples on how to use it.
