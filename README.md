@@ -29,7 +29,10 @@ Frequently asked questions about a software component
 Copied from the [deeprank2 repo](https://github.com/DeepRank/deeprank2)
 [![DOI](https://zenodo.org/badge/450496579.svg)](https://zenodo.org/badge/latestdoi/450496579)
 
+# Image
+Images used to illustrate the software component.
 
+![logo.png](logo.png)
 
 
 
@@ -85,8 +88,6 @@ Link to the code of conduct of the project
 Snippets of code contained in the repository.
 # Support channels
 Help channels one can use to get support about the target software component.
-# Images
-Images used to illustrate the software component.
 # Logo
 Main logo used to represent the target software component.
 # Ontologies
