@@ -35,7 +35,7 @@ Images used to illustrate the software component.
 
 # Logo
 Main logo used to represent the target software component.
-![logo1.png](logo_directory/logo2.png)
+![logo2.png](logo_directory/logo2.png)
 
 
 
