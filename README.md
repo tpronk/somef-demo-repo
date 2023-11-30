@@ -10,6 +10,15 @@ This repo hopes to contribute to a vision of an extension of the existing World 
 # Citation
 Please cite this repo as Pronk, T. (2023). *somef-demo-repo: This repo aims to provide values for each metadata field that SOMEF (v0.9.4) can extract* (Version 0.0.1) [Computer software]. https://github.com/tpronk/somef-demo-repo
 
+# Contact
+Contact person responsible for maintaining a software component
+
+# Contributors
+Here could be a list of contributors to this software component
+
+# Documentation
+Where to find additional documentation about a software component.
+
 # Executable notebook
 Here you find a non-functioning executable notebook in Jupyter on top of Binder: https://mybinder.org/dummy-notebook
 
@@ -17,34 +26,32 @@ Here you find a non-functioning executable notebook in Jupyter on top of Binder:
 Copied from the [deeprank2 repo](https://github.com/DeepRank/deeprank2)
 [![DOI](https://zenodo.org/badge/450496579.svg)](https://zenodo.org/badge/latestdoi/450496579)
 
+
+
+
+
 # Name
 Name identifying a software component
 # Full name
 Name + owner (owner/name)
 # Full title
 If the repository is a short name, we will attempt to extract the longer version of the repository name
-# Description
-A description of what the software does.
+
 # Installation instructions
 A set of instructions that indicate how to install a target repository
 # Invocation
 Execution command(s) needed to run a scientific software component
 # Usage examples
 Assumptions and considerations recorded by the authors when executing a software component, or examples on how to use it.
-# Documentation
-Where to find additional documentation about a software component.
 # Requirements
 Pre-requisites and dependencies needed to execute a software component.
-# Contributors
-Contributors to a software component
 # FAQ
 Frequently asked questions about a software component
 # Support
 Guidelines and links of where to obtain support for a software component
 # License
 License and usage terms of a software component
-# Contact
-Contact person responsible for maintaining a software component
+
 # Download URL
 URL where to download the target software (typically the installer, package or a tarball to a stable version)
 # DOI
@@ -91,5 +98,3 @@ Images used to illustrate the software component.
 Main logo used to represent the target software component.
 # Ontologies
 URL and path to the ontology files present in the repository.
-# Application domain
-The application domain of the repository. This may be related to the research area of a software component (e.g., Astrophysics) or the general domain/functionality of the tool (i.e., machine learning projects)1
