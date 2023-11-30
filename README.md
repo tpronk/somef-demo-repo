@@ -33,19 +33,23 @@ Copied from the [deeprank2 repo](https://github.com/DeepRank/deeprank2)
 Images used to illustrate the software component.
 ![logo1.png](logo1.png)
 
-# Logo
-Main logo used to represent the target software component.
-![logo2.png](logo_directory/logo2.png)
-
-
-
-
 # Installation instructions
 A set of instructions that indicate how to install a target repository
+
 # Invocation
 Execution command(s) needed to run a scientific software component. Copied from [https://github.com/MPDL/unibiAPC/](https://github.com/MPDL/unibiAPC/)
 
 ```{r, echo=FALSE, results='asis', message = FALSE}\nmy_apc %>% select(institution, euro) %>% \n  group_by(institution) %>% \n  ezsummary::ezsummary(n = TRUE, digits= 0, median = TRUE,\n                       extra = c(\n                         sum = \"sum(., na.rm = TRUE)\",\n                         min = \"min(., na.rm = TRUE)\",\n                         max = \"max(., na.rm = TRUE)\"\n                         )) %>%\n  mutate_all(format, big.mark=',') %>%\n  ezsummary::ezmarkup('...[. (.)]..[. - .]') %>%\n#> get rid of blanks\n  mutate(`mean (sd)` = gsub(\"\\\\(  \", \"(\", .$`mean (sd)`)) %>% \n  select(institution, n, sum, `mean (sd)`, median, `min - max`) %>%\n  arrange(desc(n)) %>%\n  knitr::kable(col.names = c(\"Institution\", \"Articles\", \"Spending total (in \u20ac)\", \"Mean (SD)\", \"Median\", \"Minimum - Maximum\"), align = c(\"l\",\"r\", \"r\", \"r\", \"r\", \"r\"))\n```
+
+# Logo
+Main logo used to represent the target software component.
+![logo2.png](logo_directory/logo2.png)
+
+# Package Distribution
+A non-existent package can be found at [![PyPI](https://example.com)]
+
+
+
 
 # Usage examples
 Assumptions and considerations recorded by the authors when executing a software component, or examples on how to use it.
