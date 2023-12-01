@@ -2,7 +2,7 @@
 This repo aims to provide values for each metadata field that SOMEF (v0.9.4) can extract.
 
 # Acknowledgements
-I would like to thank my fellow maSMP-Hackathonners for the great vibes and Leyla Jael Castro for organizing it.
+This demonstration repo was created during the maSMP hackathon at [ZB MED](https://www.zbmed.de/en) sponsored by [NFDI4DataScience](https://www.nfdi4datascience.de). NFDI4DataScience is a consortium funded by the German Research Foundation (DFG), project number 460234259.
 
 # Citation
 Please cite this repo as Pronk, T. (2023). *somef-demo-repo: This repo aims to provide values for each metadata field that SOMEF (v0.9.4) can extract* (Version 0.0.1) [Computer software]. https://github.com/tpronk/somef-demo-repo
